@@ -8,19 +8,17 @@
 
 function calculateCost() {
   const sizeOfPizza = document.getElementById("medium-size-pizza").checked
-  const numberOfTopping = parseInt(
-    document.getElementById("number-of topping").value
-  )
+  const numberOfTopping = parseInt(document.getElementById("number-of topping").value)
 
   if (sizeOfPizza == true) {
-    const totalCost = 5 + 0.75 * numberOfTopping
+    const totalCost = 6 + 0.8 * numberOfTopping
     const totalCostWithTaxes = (totalCost * 13) / 100 + totalCost
     document.getElementById("result").innerHTML =
-      "The total cost is : " + totalCostWithTaxes.toFixed(2)
+      "The total cost with taxes is : $" + totalCostWithTaxes.toFixed(2)
   } else {
-    const totalCost = 10 + 0.75 * numberOfTopping
+    const totalCost = 10 + 0.8 * numberOfTopping
     const totalCostWithTaxes = (totalCost * 13) / 100 + totalCost
     document.getElementById("result").innerHTML =
-      "The total cost with taxes is  is : " + totalCostWithTaxes.toFixed(2)
+      "The total cost with taxes is  : $" + totalCostWithTaxes.toFixed(2)
   }
 }

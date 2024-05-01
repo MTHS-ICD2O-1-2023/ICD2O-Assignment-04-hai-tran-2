@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="Tu4ozFPcCg4CQByWTAfg" name="Page-1">
+        <mxGraphModel dx="1143" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="24" y="30" width="780" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Calculate the cost of pizza program , in JS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="90" y="40" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Choose pizza size" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="46" y="80" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Find cost" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="90" y="380" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="The total cost with taxes is : $10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="46" y="430" width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="pizza store image" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="420" y="130" width="270" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="radio&lt;br style=&quot;font-size: 18px;&quot;&gt;button" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="130" y="140" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="radio&lt;br style=&quot;font-size: 18px;&quot;&gt;button" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="50" y="140" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Choose number of topping" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="50" y="235" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="3">
+                    <mxGeometry x="88" y="290" width="144" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
